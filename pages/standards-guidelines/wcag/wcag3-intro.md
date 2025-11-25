@@ -5,7 +5,7 @@
 title: "WCAG 3 Introduction"
 nav_title: "WCAG 3 Draft"
 lang: en  # Change "en" to the translated-language shortcode
-last_updated: 2025-09-04 # Keep the date of the English version
+last_updated: 2025-11-24 # Keep the date of the English version
 
 # translators: # remove from the beginning of this line and the lines below: "# " (the hash sign and the space)
 # - name: "Translator Name Here" # Add one -name: line for every translator
@@ -131,7 +131,7 @@ The name of WCAG 3 is different from WCAG 2:
 
 ### Structure
 
-For a description of the structure of the December 2024 WCAG 3 Working Draft, see the Explainer section [WCAG 3.0 Structure](https://www.w3.org/TR/2024/DNOTE-wcag-3.0-explainer-20241212/#structure).
+For a description of the structure of the WCAG 3 Working Draft, see the Explainer section [WCAG 3.0 Structure](https://www.w3.org/TR/wcag-3.0-explainer/#structure).
 
 ### Conformance approach {#model}
 
@@ -143,9 +143,9 @@ The conformance model in WCAG 3 will be very different from WCAG 2. It is intend
 
 Developing and vetting the conformance model is a large portion of the work AG needs to complete over the next few years.
 
-The December 2024 publications have updated information in:
-* Explainer section [Conformance approach](https://www.w3.org/TR/2024/DNOTE-wcag-3.0-explainer-20241212/#conformance-models)
-* WCAG 3 Working Draft section [Conformance](https://www.w3.org/TR/2024/WD-wcag-3.0-20241212/#conformance)
+Information on the draft conformance model is in:
+* Explainer section [Conformance approach](https://www.w3.org/TR/wcag-3.0-explainer/#conformance-models)
+* WCAG 3 Working Draft section [Conformance](https://www.w3.org/TR/wcag-3.0/#conformance)
 
 ## Development
 
@@ -159,7 +159,7 @@ WCAG 3 will not supersede WCAG 2 and WCAG 2 will not be deprecated for at least 
 
 The Accessibility Guidelines Working Group (AG WG) previously created an initial set of guidelines and explored conformance models. In 2025, AG WG focused on progressing guidelines, requirements, assertions, and supporting material to Developing status. During the rest of 2025, the group will focus on completing the proposed guidelines and proposed conformance model for public review.
 
-AG WG plans to develop a projected [WCAG 3 timeline](https://www.w3.org/WAI/GL/wiki/WCAG_3_Timeline) by December 2025.
+AG WG plans to develop a projected [WCAG 3 timeline](https://www.w3.org/WAI/GL/wiki/WCAG_3_Timeline) by April 2026.
 
 We will update this section with more specific timeline information as it is available.
 
